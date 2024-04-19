@@ -4,6 +4,7 @@ public class TestClass {
 	
 	public static void main(String[] args) {
 		System.out.println("Main Start");
+		System.out.println("-- Programm Start --")
 		int a=10;
 		int b=2;
 		int c=a/b;
